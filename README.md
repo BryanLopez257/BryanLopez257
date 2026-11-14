@@ -1,5 +1,9 @@
 <div align="center">
 
+  <!-- Header Banner Animado -->
+  <a href="https://github.com/BryanLopez257">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=230&section=header&text=Bryan%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%2C%20Mobile%20%26%20BI%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  </a>
 
   <!-- Typing SVG Dinámico -->
   <a href="https://github.com/BryanLopez257">
@@ -36,12 +40,12 @@
 ### 👨‍💻 Sobre Mí
 
 ```yaml
-nombre: Bryan López
-perfil: Desarrollador de Software enfocado en Backend, Móvil y Analítica de Datos
-universidad: Universidad Técnica de Ambato (UTA) 🇪🇨
-ecosistemas: [.NET / C#, Python / Flask, Flutter / Dart, React / TypeScript, Supabase]
-especialidad_bi: Business Intelligence & Sistemas de Soporte a la Toma de Decisiones (DSS)
-filosofía: "Transformar requerimientos complejos en arquitecturas escalables y datos crudos en decisiones estratégicas de negocio."
+Nombre: Bryan López
+Perfil: Desarrollador de Software enfocado en Backend, Móvil y Analítica de Datos
+Universidad: Universidad Técnica de Ambato (UTA) 🇪🇨
+Ecosistemas: [.NET / C#, Python / Flask, Flutter / Dart, React / TypeScript, Supabase]
+Especialidad_bi: Business Intelligence & Sistemas de Soporte a la Toma de Decisiones (DSS)
+Filosofía: "Transformar requerimientos complejos en arquitecturas escalables y datos crudos en decisiones estratégicas de negocio."
 ```
 
 - 🎓 **Formación Académica:** Estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato (Ecuador)**.
