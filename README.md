@@ -2,12 +2,12 @@
 
   <!-- Header Banner Animado -->
   <a href="https://github.com/BryanLopez257">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=Bryan%20López&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Full%20Stack%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=230&section=header&text=Bryan%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%2C%20Mobile%20%26%20BI%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
   </a>
 
-  <!-- Typing SVG -->
+  <!-- Typing SVG Dinámico -->
   <a href="https://github.com/BryanLopez257">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=%C2%A1Hola%2C+bienvenido+a+mi+perfil!+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%8E%93;Backend+Developer+%7C+.NET+%26+C%23+%E2%9A%99%EF%B8%8F;Clean+Architecture+%2B+Patrones+de+Dise%C3%B1o+%F0%9F%A7%A9;Frontend+con+React+%26+TypeScript+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+bienvenido+a+mi+perfil!+%F0%9F%91%8B;Backend+Developer+%7C+.NET%2C+C%23+%26+Flask+%E2%9A%99%EF%B8%8F;Desarrollo+M%C3%B3vil+Multiplataforma+con+Flutter+%F0%9F%93%B1;Clean+Architecture+%2B+Patrones+de+Dise%C3%B1o+%F0%9F%A7%A9;Business+Intelligence+%26+Decision+Support+Systems+(DSS)+%F0%9F%93%8A;Cloud%2C+BaaS+%26+Bases+de+Datos+con+Supabase+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Universidad-UTA_Ecuador-red?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UTA Ecuador" />
     </a>
     <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Ecuador_%F0%9F%87%AA%F0%9F%87%A8-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ecuador" />
-    <img src="https://img.shields.io/badge/Enfoque-Clean_Code_%26_Arquitectura-00B4D8?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Enfoque" />
+    <img src="https://img.shields.io/badge/Especialidad-Backend_%7C_Mobile_%7C_BI-00B4D8?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Especialidad" />
   </p>
 
   <!-- Redes Sociales / Contacto -->
@@ -26,9 +26,9 @@
     <a href="https://github.com/BryanLopez257">
       <img src="https://img.shields.io/badge/GitHub-BryanLopez257-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <!-- Descomenta y coloca tu URL de LinkedIn cuando la tengas:
-    <a href="https://linkedin.com/in/tu-perfil">
-      <img src="https://img.shields.io/badge/LinkedIn-Bryan_López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <!-- Puedes descomentar este bloque cuando agregues tu LinkedIn:
+    <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Bryan_L%C3%B3pez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     -->
   </p>
@@ -41,18 +41,19 @@
 
 ```yaml
 nombre: Bryan López
-rol: Estudiante de Ingeniería de Software & Desarrollador
+perfil: Desarrollador de Software enfocado en Backend, Móvil y Analítica de Datos
 universidad: Universidad Técnica de Ambato (UTA) 🇪🇨
-intereses: [Arquitectura de Software, Clean Architecture, Domain-Driven Design, Backend APIs, Cloud]
-estado_actual: Construyendo aplicaciones robustas con .NET 10 y React
-filosofía: "Escribir código limpio no es solo que funcione hoy, sino que sea fácil de mantener y evolucionar mañana."
+ecosistemas: [.NET / C#, Python / Flask, Flutter / Dart, React / TypeScript, Supabase]
+especialidad_bi: Business Intelligence & Sistemas de Soporte a la Toma de Decisiones (DSS)
+filosofía: "Transformar requerimientos complejos en arquitecturas escalables y datos crudos en decisiones estratégicas de negocio."
 ```
 
-- 🎓 **Educación:** Estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato (Ecuador)**.
-- ⚙️ **Especialización:** Apasionado por el desarrollo backend con **C# y .NET**, aplicación de **Clean Architecture**, principios **SOLID**, **Patrones de Diseño GoF** y **Domain-Driven Design (DDD)**.
-- 🎨 **Frontend Moderno:** Experiencia construyendo interfaces web reactivas con **React 18**, **TypeScript**, **Tailwind CSS** y gestión de estado.
-- 🧪 **Calidad y Testing:** Comprometido con la automatización de pruebas unitarias y de integración (**xUnit**, **Vitest**, FluentAssertions, scripts E2E en PowerShell).
-- 🔄 **Integración Empresarial:** Experiencia en integración con plataformas ERP (**Odoo 20** vía JSON-2 RPC), diseño de APIs RESTful bajo **RFC 7807 (ProblemDetails)**, autenticación segura (**JWT Bearer con roles**) e **idempotencia transaccional**.
+- 🎓 **Formación Académica:** Estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato (Ecuador)**.
+- ⚙️ **Backend & Clean Architecture:** Especialista en la construcción de APIs robustas con **.NET 10 (C#)** y microservicios/APIs ágiles con **Python (Flask)**, implementando **Clean Architecture**, principios **SOLID**, **Domain-Driven Design (DDD)** y **Patrones GoF**.
+- 📱 **Desarrollo Móvil Multiplataforma:** Creación de aplicaciones móviles nativas y modernas con **Flutter & Dart**, enfocadas en arquitectura modular, rendimiento fluido, gestión de estado y consumo reactivo de servicios REST.
+- 📊 **Business Intelligence (BI) & DSS:** Diseño e implementación de **Sistemas de Soporte a la Toma de Decisiones (Decision Support Systems)**. Modelado de datos transaccionales hacia esquemas analíticos, explotación de métricas con **SQL avanzado**, dashboards interactivos y visualización de KPIs estratégicos mediante **Metabase**.
+- ⚡ **Cloud & BaaS:** Integración ágil con **Supabase** (PostgreSQL Serverless, Row Level Security, autenticación, almacenamiento y eventos en tiempo real) y bases de datos relacionales empresariales.
+- 🧪 **Cultura de Calidad:** Pruebas automatizadas (xUnit, Vitest), pipelines limpios, cero advertencias de compilación y tolerancia a fallos transaccionales (**Idempotencia / RFC 7807**).
 
 ---
 
@@ -63,32 +64,40 @@ filosofía: "Escribir código limpio no es solo que funcione hoy, sino que sea f
   #### 💻 Lenguajes de Programación
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css" alt="Lenguajes" />
+      <img src="https://skillicons.dev/icons?i=cs,dart,python,ts,js,html,css" alt="Lenguajes" />
     </a>
   </p>
 
-  #### ⚙️ Backend, Frameworks & Arquitectura
+  #### ⚙️ Backend, Frameworks & APIs
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=dotnet,flask,nodejs,express" alt="Backend" />
     </a>
   </p>
 
-  #### 🎨 Frontend & UI
+  #### 📱 Desarrollo Móvil & 🎨 Frontend
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind,bootstrap" alt="Mobile y Frontend" />
     </a>
   </p>
 
-  #### 🗄️ Bases de Datos & Almacenamiento
+  #### 🗄️ Bases de Datos, Cloud & BaaS
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" alt="Bases de Datos" />
+      <img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,mysql" alt="Bases de Datos y Supabase" />
     </a>
   </p>
 
-  #### 🔧 Herramientas, DevOps & Entorno
+  #### 📊 Business Intelligence & Sistemas de Soporte a Decisiones (DSS)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
+    <img src="https://img.shields.io/badge/Decision_Support_Systems-DSS-1B365D?style=for-the-badge&logo=google-analytics&logoColor=white" alt="DSS" />
+    <img src="https://img.shields.io/badge/Business_Intelligence-BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="BI" />
+    <img src="https://img.shields.io/badge/Advanced_SQL-Analytic_Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Analítico" />
+  </p>
+
+  #### 🔧 Herramientas, DevOps & Entorno de Trabajo
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,powershell,linux" alt="Herramientas" />
@@ -99,18 +108,44 @@ filosofía: "Escribir código limpio no es solo que funcione hoy, sino que sea f
 
 ---
 
-### 🌟 Proyecto Destacado
+### 🚀 Áreas de Dominio & Enfoque de Ingeniería
 
 <table>
   <tr>
-    <td width="60%">
-      <h3>🛒 Sistema Punto de Venta (POS) con Clean Architecture & Odoo ERP 20</h3>
-      <p>Sistema empresarial desacoplado en 4 capas concéntricas (Dominio, Aplicación, Infraestructura, Presentación) integrado en tiempo real con <b>Odoo 20 Community</b> mediante el protocolo oficial JSON-2.</p>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>⚙️ Backend & Arquitectura</h3>
+        <p>APIs de alto rendimiento con <b>.NET 10</b> y microservicios ligeros con <b>Python Flask</b>. Arquitecturas desacopladas (Clean Architecture, DDD, Hexagonal) con estricto apego a SOLID y patrones GoF.</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📱 Móvil & Multiplataforma</h3>
+        <p>Desarrollo de apps cross-platform fluidas con <b>Flutter & Dart</b>. Integración con servicios cloud en <b>Supabase</b>, sincronización offline, consumo de APIs y arquitecturas limpias reactivas.</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📊 BI & Soporte a Decisiones (DSS)</h3>
+        <p>Diseño de <b>Sistemas de Soporte a Decisiones</b>. Transformación de datos operacionales en inteligencia analítica, tableros de control ejecutivos y KPIs en tiempo real con <b>Metabase & PostgreSQL</b>.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 POS Retail con Clean Architecture & Odoo ERP 20</h3>
+      <p>Sistema empresarial desacoplado en 4 capas concéntricas (.NET 10 y React 18) integrado en tiempo real con <b>Odoo 20 Community</b> mediante protocolo oficial JSON-2.</p>
       <ul>
-        <li><b>Patrones GoF Aplicados:</b> Strategy (Descuentos y Pagos extensibles OCP), State (Ciclo de vida inmutable de la orden), Adapter y Builder (Payload RPC de Odoo).</li>
-        <li><b>Resiliencia:</b> Idempotent Receiver con SQLite local (RN-08), prevención de duplicación y tolerancia a fallos.</li>
-        <li><b>Seguridad:</b> Autenticación JWT Bearer con roles (Admin / Cajero) y aislamiento de sesiones POS (HTTP 403).</li>
-        <li><b>Testing:</b> 53 pruebas automatizadas (xUnit + Vitest) y suite E2E en PowerShell.</li>
+        <li><b>Patrones GoF:</b> Strategy (Descuentos y Pagos OCP), State (Ciclo de vida de la orden inmutable), Adapter y Builder (Payload RPC de Odoo).</li>
+        <li><b>Resiliencia:</b> Idempotent Receiver con SQLite local (RN-08) y tolerancia a fallos de red.</li>
+        <li><b>Testing:</b> 53 pruebas automatizadas al 100% (xUnit + Vitest) y suite E2E en PowerShell.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -118,6 +153,22 @@ filosofía: "Escribir código limpio no es solo que funcione hoy, sino que sea f
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Odoo_20-714B67?style=flat-square&logo=odoo&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Plataforma DSS & Analítica Empresarial con Metabase & Supabase</h3>
+      <p>Sistema de Soporte a la Toma de Decisiones (DSS) orientado a gerencia y operaciones estratégicas.</p>
+      <ul>
+        <li><b>BaaS & Datos:</b> Modelado relacional en <b>Supabase (PostgreSQL)</b> con políticas de seguridad RLS y eventos en tiempo real.</li>
+        <li><b>Backend Ágil:</b> Servicios REST en <b>Python (Flask)</b> para ingesta y validación de datos.</li>
+        <li><b>Visualización Ejecutiva:</b> Dashboards interactivos, métricas de rendimiento y tendencias comerciales en <b>Metabase</b>.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python_Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -149,7 +200,7 @@ filosofía: "Escribir código limpio no es solo que funcione hoy, sino que sea f
 ### 💬 Hablemos
 
 <div align="center">
-  ¿Tienes alguna idea de proyecto, duda sobre arquitectura de software o simplemente quieres conectar?
+  ¿Tienes alguna idea de proyecto, interés en arquitecturas de software, desarrollo móvil o analítica de datos?
   <br/><br/>
   <a href="mailto:blopez2242@uta.edu.ec">
     <img src="https://img.shields.io/badge/Enviar_Correo-blopez2242%40uta.edu.ec-00D2FF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contáctame" />
