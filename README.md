@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Header Banner Animado -->
-  <a href="https://github.com/BryanLopez257">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=230&section=header&text=Bryan%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%2C%20Mobile%20%26%20BI%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-  </a>
 
   <!-- Typing SVG Dinámico -->
   <a href="https://github.com/BryanLopez257">
